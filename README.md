@@ -1,10 +1,10 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Hola 👋🏽, lee las siguientes intrucciones para que uses la apicación de manera muy fácil.
 
-## Available Scripts
+## 
+### `npm i`
 
-In the project directory, you can run:
+Ejecuta npm para instalar las dependencias de desarrollo.
 
 ### `npm start`
 
@@ -13,7 +13,4 @@ Abra [http://localhost:3000](http://localhost:3000) para verlo en su navegador.
 
 La página se volverá a cargar cuando realice cambios.\
 También puede ver errores de pelusa en la consola.
-### `npm i`
-
-Ejecuta npm para instalar las dependencias de desarrollo.
 
